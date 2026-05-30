@@ -63,7 +63,7 @@ This dashboard helps stakeholders make informed business decisions by providing 
 
 <td align="center">
 <b>📊 Overview Dashboard</b><br><br>
-<img src="Overview Page.png" width="450">
+<img src="Overview_Page.png" width="450">
 </td>
 </tr>
 </table>
